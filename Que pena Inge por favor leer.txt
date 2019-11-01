@@ -1,0 +1,4 @@
+Ingeniero tuve que trabajar con el usuario de Sergio Gil, pues no supe como 
+cambiar usuarios en el git bush +, por lo cual quedo como calaborador tambien 
+sergio, aunque esta en otro grupo con paez. Gracias.
+
